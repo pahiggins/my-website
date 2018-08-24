@@ -1,2 +1,2 @@
-# My Website
-This is my website.
+# Website
+This is a website.
